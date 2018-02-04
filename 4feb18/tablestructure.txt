@@ -1,0 +1,41 @@
+Mapping table:
+- Object type {form, field, reports}
+- Object name
+- erp product tracking id
+- security control id
+- label name
+- sequence id
+
+
+erp product tracking table
+- erp product tracking id
+- product id
+- license id
+- sub license id
+- industry id
+- location id
+- customer id
+- user id
+
+
+security control table:
+- create
+- edit
+- view
+- delete
+- security control id
+
+
+business flow tracking table:
+- applicable_to_previous 
+- previous_status_group_code ,
+- applicable_to_current 
+- current_status_group_code ,
+- applicable_to_next 
+- next_status_group_code ,
+- applicable_to_action 
+- action_group ,
+- applicable_to_flow 
+- flow_group ,
+
+
