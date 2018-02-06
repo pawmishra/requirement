@@ -1,0 +1,38 @@
+// Tabs or spaces define complex values
+ui_object_type
+  parent_object
+    parent_object_type = form
+    parent_object_name = Purchaseorderform
+    parent_object_label = Purchase Order 
+    child_object
+      child_object_type = table
+      child_object_name = Purchaseorderheadertable
+      child_object_label = none
+      inner_child_object[0]
+        child_object_type = table_field
+        child_object_name = id
+        child_object_label = none
+      inner_child_object[1]
+        child_object_type = table_field
+        child_object_name = purchase_order_number
+        child_object_label = PO number
+      inner_child_object[2]
+        child_object_type = table_field
+        child_object_name = purchase_order_name
+        child_object_label = PO name
+      inner_child_object[3]
+        child_object_type = table_field
+        child_object_name = vendor_id
+        child_object_label = vendor name
+      inner_child_object[4]
+        child_object_type = table_field
+        child_object_name = audit_id
+        child_object_label = none
+      inner_child_object[5]
+        child_object_type = table_field
+        child_object_name = catalog_id
+        child_object_label = none
+      inner_child_object[6]
+        child_object_type = table_field
+        child_object_name = status
+        child_object_label = status
