@@ -1,0 +1,46 @@
+[4:06 AM, 2/14/2018]: This is the file for PO creation - contains the functionality of Finance Payment and then dispatch
+[4:42 AM, 2/14/2018]: Inspection form will be sent soon
+[4:44 AM, 2/14/2018]: It contains three forms and again it may contain the link back to P.O. form
+[8:04 AM, 2/14/2018]: Kapil kam se kam form ready kar do aaj
+[8:04 AM, 2/14/2018]: I will send another set of forms
+[9:54 AM, 2/14/2018]: kapil , Pwan and Walia - I am happy with your work .. Especiallly walia and Pawan u both have put a tremendous effort in designing the unique solution
+[9:54 AM, 2/14/2018]: but also let me know if I am going something more in certain cases
+[9:54 AM, 2/14/2018]: like adding more fields or functionality
+[9:54 AM, 2/14/2018]: or any major changes which i shuld not do
+[9:55 AM, 2/14/2018]: u guys should recommend me from technical point of view
+[9:55 AM, 2/14/2018]: may be i will take some time to think on that and then will let you know if we can come to one platform
+[9:56 AM, 2/14/2018]: i m trying to create the things ... as clear as possible so that we can achieve the timelines ..
+[9:57 AM, 2/14/2018]: if some functionality u think will take too much time then tell me - i will discard it for now
+[9:57 AM, 2/14/2018]: but suggest me
+[9:57 AM, 2/14/2018]: dont only listen to me ...
+[9:58 AM, 2/14/2018]: may be from technical point of view i think it can be done so i give it but u tell me what can be done and what can't be
+[9:58 AM, 2/14/2018]: within timelines
+[9:58 AM, 2/14/2018]: without any hesitation
+[9:58 AM, 2/14/2018]: I understand somtime i m forceful but i dont want to be
+[9:59 AM, 2/14/2018]: so give me suggestions - i will realise the mistake and take proper decisions
+[9:59 AM, 2/14/2018]: But i have no complains to all of kapil, pawan , walia and Verma .. I appreciate ur ability
+[10:00 AM, 2/14/2018]: and performance till now
+[10:00 AM, 2/14/2018]: even though kapil has not shown me a lot but i was happy to see at least the website front part only
+[10:01 AM, 2/14/2018]: Verma also worked hard
+[10:02 AM, 2/14/2018]: i may be bit harsh sorry for that
+[10:02 AM, 2/14/2018]: but has no bad intentions
+[10:03 AM, 2/14/2018]: u also ask me if i need to do same kind of structure in excel which will expedite your task
+[10:03 AM, 2/14/2018]: any way i m trying to prepare as simple as possible but all the important fields i m trying to cover which will suit MSAG
+[10:15 AM, 2/14/2018]: I also suggest you everyone to stop me if i m making some inadvertent changes
+[10:16 AM, 2/14/2018]: whcih may take more time
+[10:16 AM, 2/14/2018]: the next submission of task i will asssume on Saturday but its soft delivery so --
+[10:16 AM, 2/14/2018]: 1. all forms design at least
+[10:17 AM, 2/14/2018]: 2. basic create,edit,delete, save , functionality
+[10:18 AM, 2/14/2018]: 3. and the link of the major header and line form at least
+[10:19 AM, 2/14/2018]: in the case of PO form only
+[10:19 AM, 2/14/2018]: but kapil can keep the ready for design of all the forms
+[10:20 AM, 2/14/2018]: so that next phase will be on next saturday where wwe wil try to complete the functionality of all forms
+[10:21 AM, 2/14/2018]: Sorry i nver get time to do all these phase by phase task divison but will do it today only and share with you so that we can reach somethin by next saturday
+[10:21 AM, 2/14/2018]: but push me if you need anything from me
+[10:22 AM, 2/14/2018]: Appreciate all your efforts and i m happy that i m part of your team and vice versa 😃
+[10:23 AM, 2/14/2018]: Will send another set of Service order inspection and its related job orders forms - it will very similar to PO forms
+[10:24 AM, 2/14/2018]: Purchase order form = Service order form
+[10:24 AM, 2/14/2018]: Purcahse order line form = Service order line form
+[10:25 AM, 2/14/2018]: Service Jobs which willl be like a child of service order line form
+[10:26 AM, 2/14/2018]: sol Service order > service order line > service jobs : A similar kind of parent > Child > Grandchild kind of forms
+[10:26 AM, 2/14/2018]: enough of chat - but sorry if i hurt someone with my harsh voice or something .. i will contnue my work
