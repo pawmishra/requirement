@@ -1,0 +1,175 @@
+{
+  "object_mapping": {
+    "Object Form Header": "Purchase Order Form",
+    "Object Form Label": "Purchase Order Form",
+    "form": [
+      {
+        "title": "Purchase Order",
+        "label": "Purchase Order",
+        "fields": [
+          {
+            "type": "select",
+            "label": "Vendor Name",
+            "name": "vendor_name",
+            "groupIn": "Purchase Order",
+            "method": "vendor"
+          },
+          {
+            "type": "number",
+            "label": "Purchase Order Number",
+            "name": "purchase_order_number",
+            "groupIn": "Purchase Order",
+            "method": "na"
+          },
+          {
+            "type": "text",
+            "label": "Purchase Order Status",
+            "name": "status",
+            "groupIn": "Purchase Order",
+            "method": "status"
+          },
+          {
+            "type": "date",
+            "label": "Purchase Order Date",
+            "name": "purchase_order_date",
+            "groupIn": "Purchase Order",
+            "method": "purchase_order_date"
+          }
+        ],
+        "buttons": [
+          {
+            "action": "deletePurchaseOrder",
+            "label": "Delete order",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "createPurchaseOrder",
+            "label": "Create order",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "editPurchaseOrder",
+            "label": "Edit order",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "invoicePurchaseOrder",
+            "label": "Invoice order",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "receivePurchaseOrder",
+            "label": "Receive order",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "confirmPurchaseOrder",
+            "label": "confirm order",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "savePurchaseOrder",
+            "label": "Save",
+            "groupIn": "Purchase Order"
+          },
+          {
+            "action": "resetPurchaseOrder",
+            "label": "Reset",
+            "groupIn": "Purchase Order"
+          }
+        ],
+        "grid": {
+          "method": "getAllPurchaseOrder",
+          "groupIn": "Purchase Order"
+        }
+      },
+      {
+        "title": "Purchase Order Line",
+        "label": "Purchase Order Line",
+        "fields": [
+          {
+            "type": "text",
+            "label": "Purchase Order Number",
+            "name": "purchase_order_number",
+            "groupIn": "Purchase Line",
+            "method": "purchase_order_number"
+          },
+          {
+            "type": "text",
+            "label": "Purchase Order Line Number",
+            "name": "purchase_order_line_number",
+            "groupIn": "Purchase Line",
+            "method": "purchase_order_line_number"
+          },
+          {
+            "type": "select",
+            "label": "Item",
+            "name": "item",
+            "groupIn": "Purchase Line",
+            "method": "items"
+          },
+          {
+            "type": "text",
+            "label": "status",
+            "name": "status",
+            "groupIn": "Purchase Line",
+            "method": "status"
+          },
+          {
+            "type": "date",
+            "label": "Purchase Order Line Date",
+            "name": "purchase_order_line_date",
+            "groupIn": "Purchase Line",
+            "method": "purchase_order_line_date"
+          }
+        ],
+        "buttons": [
+          {
+            "action": "deletePurchaseOrderLine",
+            "label": "Delete PO Line",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "createPurchaseOrderLine",
+            "label": "Create PO Line",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "editPurchaseOrderLine",
+            "label": "Edit PO Line",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "invoicePurchaseOrderLine",
+            "label": "Invoice order",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "receivePurchaseOrderLine",
+            "label": "Receive order",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "confirmPurchaseOrderLine",
+            "label": "confirm order",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "savePurchaseOrderLine",
+            "label": "Save PO Line",
+            "groupIn": "Purchase Order Line"
+          },
+          {
+            "action": "resetPurchaseOrderLine",
+            "label": "Reset PO Line",
+            "groupIn": "Purchase Order Line"
+          }
+        ],
+        "grid": {
+          "method": "getAllPurchaseOrderLine",
+          "groupIn": "Purchase Order Line"
+        }
+      }
+    ]
+  }
+}
